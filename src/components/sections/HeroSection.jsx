@@ -40,7 +40,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 py-24 sm:py-32 relative z-10">
         <div className="max-w-4xl mx-auto text-center" ref={heroRef}>
           <div className="flex justify-center mb-10">
-            <h2 className="text-7xl md:text-8xl lg:text-9xl font-extrabold text-blue-300 tracking-tight">Intellion</h2>
+            <h2 className="text-7xl md:text-8xl lg:text-9xl font-extrabold text-blue-300 tracking-tight">Intelion</h2>
           </div>
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight mb-6 transition-all duration-700 ease-out opacity-0 translate-y-4">
             <span className="block">Intelligent IT Solutions</span>
