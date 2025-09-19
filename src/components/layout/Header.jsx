@@ -15,7 +15,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0">
-              <img className="h-8 w-auto" src={Logo} alt="Intelion" />
+              <img className="h-8 w-auto" src={Logo} alt="Intellion" />
             </Link>
             <div className="hidden md:ml-6 md:flex md:space-x-8">
               <Link to="/" className="text-gray-900 hover:text-blue-600 px-3 py-2 text-sm font-medium">
